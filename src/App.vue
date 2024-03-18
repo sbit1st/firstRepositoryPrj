@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <ground/>
+    <ground/>test
   </div>
 </template>
 
